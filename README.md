@@ -2,7 +2,9 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-My Discord Username: crypto_lemon#1978
+# My Discord Username: crypto_lemon#1978
+
+## Summary
 
 A standard game of Tic-Tac-Toe in Leo.
 
